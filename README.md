@@ -1,5 +1,5 @@
 # project-reverse-engineer
-It's time to put everything that you've learned together! For your project you will build a full stack web application using Express, Node.js, Mongoose, and MongoDB. You and your partner will reverse engineer a site of your choosing.
 
+Reverse Engineer-- Amazon
 
-Quick change
+In this project, we aren’t just taking your favorite on-demand delivery service and reverse engineering its best functionalities. In fact we are reengineering and implementing our own creative features that improve your, the user’s, experience. Choose from a litany of products, read and leave reviews, place your order. Can’t find what you need? Build your own products, upload them to the site and watch the orders roll in. Bid on limited products like ebay, on a service like amazon. Can’t get much better than that. Shop with ease. Shop with us. 
