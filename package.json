@@ -1,0 +1,27 @@
+{
+  "name": "project-reverse-engineer",
+  "version": "1.0.0",
+  "description": "Reverse Engineer-- Amazon",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ovsharam/project-reverse-engineer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ovsharam/project-reverse-engineer/issues"
+  },
+  "homepage": "https://github.com/ovsharam/project-reverse-engineer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
